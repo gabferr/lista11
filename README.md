@@ -4,7 +4,7 @@ Projeto desenvolvido no curso DEV-TI Unoes/fapesc
 ## Como executar?
 Ter o node instalado e rode os comandos abaixos ->
 ```
-npm isntall 
+npm install 
 npm run dev
 ```
 
